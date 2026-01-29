@@ -14,7 +14,7 @@ This project presents a comparative analysis of phenotypic antimicrobial resista
 By integrating exploratory data analysis with classical machine learning techniques, this work investigates organism- and antibiotic-specific resistance trends relevant to clinical microbiology and antimicrobial stewardship.
 
 📄 **Project Summary (PDF)**: *AMR_Comparative_Analysis_Summary.pdf*  
-*(To be added to this repository)*
+*[(To be added to this repository)](https://github.com/mukaram163/AMR-Comparative-Analysis/blob/main/AMR_Comparative_Analysis_Summary.pdf)*
 
 ---
 
